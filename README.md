@@ -1,6 +1,4 @@
-# lively-timestamp-background
-
-### A dynamic background using [Lively Wallpaper](https://rocksdanister.github.io/lively/)
+# A dynamic background using [Lively Wallpaper](https://rocksdanister.github.io/lively/)
 ### Arts by [@ladinkk](https://twitter.com/ladinkk/status/1605030232515190784)
 
 The background will change depending on the **time of day**
